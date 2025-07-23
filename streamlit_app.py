@@ -2,9 +2,9 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-st.set_page_config(page_title="Assistente Saúde Brasil", layout="wide")
+st.set_page_config(page_title="AI DATA SAÚDE", layout="wide")
 
-st.title("Assistente Saúde Brasil 🩺")
+st.title("AI DATA SAÚDE 🩺")
 st.write("Este app lê arquivos CSV de dados de saúde e gera visualizações e insights rápidos.")
 
 # Upload de arquivo CSV
