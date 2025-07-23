@@ -11,7 +11,7 @@ st.write("Este app lê arquivos CSV de dados de saúde e gera visualizações e 
 data_file = st.file_uploader("Faça upload do arquivo CSV de dados de saúde", type=["csv"])
 
 if data_file is not None:
-    df = pd.read_csv(data_file)
+    df = pd.read_csv(data_file, sep=';')
     st.success("Arquivo carregado com sucesso!")
 
     st.subheader("Prévia dos dados")
