@@ -1,4 +1,9 @@
-# 🎈 Blank app template
+
+AI-DATASAÚDE é um embrião de protótipo do que deverá ser um app, ou uma plataforma de suporte de Inteligência Artificial para consulta, analise e interpretação de dados de saúde publica já disponibilizados pelas plataformas do governo. 
+
+
+
+em desenvolvimento com ChatGPT 
 
 A simple Streamlit app template for you to modify!
 
